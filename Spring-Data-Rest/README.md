@@ -48,3 +48,11 @@ public class CustomizedRestMvcConfiguration extends RepositoryRestMvcConfigurati
 	}
 }
 ```
+
+**Supported Technologies**
+- Spring Data Commons
+	- Spring Data JPA
+	- Spring Data MongoDB
+	- Spring Data Neo4j
+	- Spring Data Gemfire
+	- Spring Data Cassandra
